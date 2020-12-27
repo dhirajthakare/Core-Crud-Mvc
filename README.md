@@ -41,6 +41,10 @@ of that row And last Delete method for Delete Record in Database. And make a vie
 8)After that you should change controller = Emp on "Startup.cs".
 After that Run Code  from  IIS Express.
 
+ScreenShorts
+![view](https://user-images.githubusercontent.com/32159491/103169863-87130700-4865-11eb-9836-3273c98586dd.png)
+
+
 
 
 
